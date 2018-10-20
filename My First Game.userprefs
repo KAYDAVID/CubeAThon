@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Settings.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Welcome.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EndTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Credits.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FollowPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Sound.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LoadNextLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Jump.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AudioManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Lives.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Score.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
