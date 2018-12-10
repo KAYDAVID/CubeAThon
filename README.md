@@ -1,5 +1,5 @@
 # CubeAThon
-Current State: Kinda Buggy
+**Current State: Kinda Buggy**
 
 This is my work-thru of Brackeys' (http://brackeys.com/) Make a Game Tutorial.
 
